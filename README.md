@@ -18,6 +18,10 @@ previous lessons.
 The files in this lesson were populated using the API-only Rails build. Run
 `rails db:migrate` and `rails db:seed` to follow along.
 
+> Note: the Fast JSON API gem is no longer being maintained, but it's still a
+> good tool to learn the basics of serialization that can also be applied
+> with other tools.
+
 ## Introduce the Fast JSON API
 
 The Fast JSON API is a JSON serializer for Rails APIs. It provides a way for us
